@@ -53,6 +53,15 @@ const bars = (iten) => {
 
 All commands came in two variantes, an Uppercase letter would mean _absolute_ coordinate on the page, while _lowercase_ would mean relative coordinate.
 
+## MorphSVGPlugin
+
+Really powerful and allow to morph SVG into specific shape, but also allow to have animation using the property `MorphSVGPlugin.pathData.ToBezier` which would allow you to align the initial SVG to some shape you would have draw in your editor and set to invisible for example
+
+> [Docs](https://greensock.com/docs/v3/Plugins/MorphSVGPlugin)
+
+[[info | Info]]
+| **Plugins** in general / MorphSVG is part of the paid plugin from GSAP
+
 ## Resources
 
 - [OMG SVG](https://svgomg.net/) Allowing you to pretify your SVG you created yourself or found online
