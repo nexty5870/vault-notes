@@ -1,7 +1,7 @@
 ## Rating
 
 > ⭐️⭐️⭐️⭐️
-
+>
 > Note: This is a personal rating based on my own experience and understanding of the library, the downside is the plugin that are chargeable for more complex animation
 
 ## What is GSAP
