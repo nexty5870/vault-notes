@@ -1,3 +1,9 @@
+## Rating
+
+> ⭐️⭐️⭐️⭐️
+
+> Note: This is a personal rating based on my own experience and understanding of the library, the downside is the plugin that are chargeable for more complex animation
+
 ## What is GSAP
 
 GSAP is a library that allow you to turn SVG into powerful animation, NPM package has 350k download weekly, very active activity (last week update on their repo started 11 years ago) almost 17k ⭐️ on [Github](https://github.com/greensock/GSAP)
